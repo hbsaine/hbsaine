@@ -5,7 +5,7 @@
 ---
 
 ### 🎓 About Me
-I’m a junior/senior [choose one] BAIS major at Iowa City. I spend most of my time between the **Tippie College of Business** and building agentic systems. I'm passionate about how **autonomous agents** can solve real-world risk in financial workflows.
+I’m a senior BAIS major at Iowa City. I spend most of my time between the **Tippie College of Business** and building agentic systems. I'm passionate about how **autonomous agents** can solve real-world risk in financial workflows.
 
 * **🔭 Working on:** [PayCycle](https://github.com/hbsaine/PayCycle) - making payroll less of a headache with AI.
 * **🏫 Campus Life:** Active in **Alpha Kappa Psi** and dominating intramural soccer (practicing that lateral touch).
