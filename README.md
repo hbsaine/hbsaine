@@ -1,16 +1,38 @@
-# Habib Saine | Systems Architect & BAIS Student
+# 👋 Hey, I'm Habib! 
 
-<p align="left">
-I am a Business Analytics and Information Systems student at the University of Iowa, specializing in technical risk and behavioral fintech. I build autonomous agents and real-time risk engines to bridge the gap between complex data and actionable financial security.
-</p>
-
-### :hammer_and_wrench: Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### :files: Featured Projects
-* **[PayCycle](https://github.com/hbsaine/PayCycle):** Behavioral fintech and automated payroll orchestration.
-* **[AkPSI Network](https://github.com/hbsaine/AkPSI-Network):** Professional networking platform for Alpha Kappa Psi.
-* **[Salary API](https://github.com/hbsaine/saine-salary-api):** Backend data processing for financial analytics.
+**Business Analytics & Information Systems @ The University of Iowa** *Currently: Tech Risk Intern @ RSM | Building at the intersection of AI & FinTech*
 
 ---
-*University of Iowa '26 | Alpha Kappa Psi*
+
+### 🎓 About Me
+I’m a junior/senior [choose one] BAIS major at Iowa City. I spend most of my time between the **Tippie College of Business** and building agentic systems. I'm passionate about how **autonomous agents** can solve real-world risk in financial workflows.
+
+* **🔭 Working on:** [PayCycle](https://github.com/hbsaine/PayCycle) - making payroll less of a headache with AI.
+* **🏫 Campus Life:** Active in **Alpha Kappa Psi** and dominating intramural soccer (practicing that lateral touch).
+* **📚 Learning:** Currently diving deep into Data Mining and Digital Product Management.
+* **⚽ Fun Fact:** When I'm not debugging, I'm probably playing Apex Legends or looking for Chicago Bulls tickets.
+
+---
+
+### 🛠️ My Toolbox
+
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | Python, SQL, JavaScript (React) |
+| **Cloud/Data** | Azure, Supabase, PostgreSQL |
+| **Workflows** | Git/GitHub, Agentic Orchestration, Technical Auditing |
+
+---
+
+### 🚀 Featured Projects
+
+* **[PayCycle](https://github.com/hbsaine/PayCycle)** *Behavioral fintech tool to orchestrate pay cycles and mitigate risk.*
+* **[AkPSI Network](https://github.com/hbsaine/AkPSI-Network)** *A professional resource hub I built for our chapter's networking.*
+* **[The Sentinel](https://github.com/hbsaine/The-Sentinel)** *Real-time risk engine project utilizing AI agent logic.*
+
+---
+
+### 📫 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/habib-saine/) | [Portfolio](https://paycycle.online) | hbsaine@uiowa.edu
+
+*"Atomic Habits" enthusiast – currently building systems, not just goals.*
